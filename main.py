@@ -1,6 +1,5 @@
 import tkinter
 
-
 def main():
     return
 
